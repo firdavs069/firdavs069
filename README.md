@@ -1,4 +1,4 @@
-# Hi, I'm Firdavs <img src="./Smile.png" height="25"/> <img src="./gif.gif" heigh="20"/>
+# Hi, I'm Firdavs <img src="./Smile.png" height="25"/> <img src="./gif.gif" heigh="25"/>
 
 ### <img src="./kompyuter.png " height="30"/> Developer | Cybersecurity Enthusiast | Designer
 
@@ -12,34 +12,34 @@ I enjoy turning ideas into working products and continuously improving my techni
 
 ### Backend & Programming
 
-* <img src="./go.png" height="42"/>
-* <img src="./js.png" height="42"/>
+* <img src="./go.png" height="25"/>
+* <img src="./js.png" height="25"/>
 
 ### Frontend
 
-* <img src="./raect.png" height="42"/> 
-* <img src="./html.png" height="42"/> 
-* <img src="./css.png" height="42"/> 
+* <img src="./raect.png" height="25"/> 
+* <img src="./html.png" height="25"/> 
+* <img src="./css.png" height="25"/> 
 
 ### Cybersecurity
 
-* <img src="./Cybersecurity.png" height="42"/> Cybersecurity fundamentals
-* <img src="./kali.png" height="42"/> Security & system exploration
+* <img src="./Cybersecurity.png" height="25"/> Cybersecurity fundamentals
+* <img src="./kali.png" height="25"/> Security & system exploration
 
 ### Operating Systems
-* <img src="./acer.png" height="42"/> **My device**
-* <img src="./linux.png" height="42"/> **Linux**
-* <img src="./fedora.png" height="42"/> **Fedora**
+* <img src="./acer.png" height="25"/> **My device**
+* <img src="./linux.png" height="25"/> **Linux**
+* <img src="./fedora.png" height="25"/> **Fedora**
 
 ### Design
 
-* <img src="./ux.png" height="42"/>
-* <img src="./design.png" height="42"/> 
-* <img src="./digital.png" height="42"/> 
+* <img src="./ux.png" height="25"/>
+* <img src="./design.png" height="25"/> 
+* <img src="./digital.png" height="25"/> 
 
 ---
 
-## <img src="./focused.png" height="42"/>  Currently Focused On
+## <img src="./focused.png" height="25"/>  Currently Focused On
 
 * Deepening my **Go** knowledge
 * Building **backend applications**
@@ -51,7 +51,7 @@ I enjoy turning ideas into working products and continuously improving my techni
 
 ---
 
-## <img src="./Technologies.png" height="42"/>  Technologies
+## <img src="./Technologies.png" height="25"/>  Technologies
 
 ```text
 Go          █████████░
@@ -66,20 +66,20 @@ Design      ████████░░
 
 ---
 
-## <img src="./pin.png" height="42"/> What You'll Find Here
+## <img src="./pin.png" height="25"/> What You'll Find Here
 
 This profile contains my:
 
-* <img src="./statistic.png" height="42"/> Personal projects
-* <img src="./kompyuter.png" height="42"/> Backend experiments
-* <img src="./design.png" height="42"/> Web applications
+* <img src="./statistic.png" height="25"/> Personal projects
+* <img src="./kompyuter.png" height="25"/> Backend experiments
+* <img src="./design.png" height="25"/> Web applications
 *  Cybersecurity projects
-* <img src="./Cybersecurity.png" height="42"/> Learning experiments
-* <img src="./digital.png" height="42"/>  Design work
+* <img src="./Cybersecurity.png" height="25"/> Learning experiments
+* <img src="./digital.png" height="25"/>  Design work
 
 ---
 
-## <img src="./statistic.png" height="42"/> My Goal
+## <img src="./statistic.png" height="25"/> My Goal
 
 > **Become a strong software engineer capable of building secure, scalable, and reliable systems.**
 
@@ -87,8 +87,8 @@ I'm currently focused on improving through **consistent learning, real projects,
 
 ---
 
-## <img src="./Smile.png" height="42"/> Let's Connect
+## <img src="./Smile.png" height="25"/> Let's Connect
 
 I'm always open to learning, collaborating, and working on interesting projects.
 
-**Keep learning. Keep building. <img src="./statistic.png" heigh="42"/> **
+**Keep learning. Keep building. <img src="./statistic.png" heigh="25"/> **
