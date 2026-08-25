@@ -1,4 +1,4 @@
-# Hi, I'm Firdavs <img src="./Smile.png" height="25"/> <img src="./gif.gif" width="42" heigh="25"/>
+# Hi, I'm Firdavs <img src="./Smile.png" height="25"/> <img src="./gif.gif" width="42" heigh="25" align="right"/>
 
 ### <img src="./kompyuter.png " height="30"/> Developer | Cybersecurity Enthusiast | Designer
 
