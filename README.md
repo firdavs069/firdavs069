@@ -90,3 +90,5 @@ I'm currently focused on improving through **consistent learning, real projects,
 ## <img src="./Smile.png" height="25"/> Let's Connect
 
 I'm always open to learning, collaborating, and working on interesting projects.
+
+<img src="./hello0.gif" heigh="200" with="400"/>
