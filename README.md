@@ -91,6 +91,4 @@ I'm currently focused on improving through **consistent learning, real projects,
 
 I'm always open to learning, collaborating, and working on interesting projects.
 
-
-
-<img src="./hello0.gif" heigh="200" with="400"/>
+<img src="./hello.gif" heigh="200" with="400"/>
