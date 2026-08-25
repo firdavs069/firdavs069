@@ -1,4 +1,4 @@
-# Hi, I'm Firdavs <img src="./Smile.png" height="42"/><iframe src="https://assets.pinterest.com/ext/embed.html?id=906138387547775790" height="42" width="345" frameborder="0" scrolling="no" ></iframe>
+# Hi, I'm Firdavs <img src="./Smile.png" height="42"/> <img src="./gif.gif"heigh="42"/>
 
 ### <img src="./kompyuter.png " height="42"/> Developer | Cybersecurity Enthusiast | Designer
 
@@ -91,4 +91,4 @@ I'm currently focused on improving through **consistent learning, real projects,
 
 I'm always open to learning, collaborating, and working on interesting projects.
 
-**Keep learning. Keep building. <img src="./statistic.png" height="42"/> **
+**Keep learning. Keep building. <img src="./statistic.png" heigh="42"/> **
