@@ -1,6 +1,6 @@
 # Hi, I'm Firdavs <img src="./Smile.png" height="42"/> <img src="./gif.gif"heigh="42"/>
 
-### <img src="./kompyuter.png " height="42"/> Developer | Cybersecurity Enthusiast | Designer
+### <img src="./kompyuter.png " height="30"/> Developer | Cybersecurity Enthusiast | Designer
 
 I'm a developer focused on building practical software, learning backend engineering, and exploring cybersecurity.
 
@@ -12,18 +12,18 @@ I enjoy turning ideas into working products and continuously improving my techni
 
 ### Backend & Programming
 
-* <img src="./go.png" height="42"/> **Go (Golang)**
-* <img src="./js.png" height="42"/> **JavaScript**
+* <img src="./go.png" height="42"/>
+* <img src="./js.png" height="42"/>
 
 ### Frontend
 
-* <img src="./raect.png"height="42"/> **React**
-* <img src="./html.png"height="42"/> **HTML5**
-* <img src="./css.png"height="42"/> **CSS3**
+* <img src="./raect.png" height="42"/> 
+* <img src="./html.png" height="42"/> 
+* <img src="./css.png" height="42"/> 
 
 ### Cybersecurity
 
-* <img src="./Cybersecurity.png"height="42"/> Cybersecurity fundamentals
+* <img src="./Cybersecurity.png" height="42"/> Cybersecurity fundamentals
 * <img src="./kali.png" height="42"/> Security & system exploration
 
 ### Operating Systems
@@ -33,9 +33,9 @@ I enjoy turning ideas into working products and continuously improving my techni
 
 ### Design
 
-* <img src="./ux.png" height="42"/> UI/UX
-* <img src="./design.png" height="42"/> Digital Design
-* <img src="./digital.png" height="42"/> Visual Design
+* <img src="./ux.png" height="42"/>
+* <img src="./design.png" height="42"/> 
+* <img src="./digital.png" height="42"/> 
 
 ---
 
