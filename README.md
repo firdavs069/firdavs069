@@ -91,4 +91,4 @@ I'm currently focused on improving through **consistent learning, real projects,
 
 I'm always open to learning, collaborating, and working on interesting projects.
 
-**Keep learning. Keep building. <img src="./statistic.png" heigh="25"/>
+**Keep learning. Keep building. <img src="./statistic.png" with="25" heigh="25"/>
